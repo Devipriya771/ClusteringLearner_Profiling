@@ -96,5 +96,4 @@ jupyter notebook SCALER_Clustering.ipynb
 * scikit-learn documentation and examples
 * Dataset providers and domain experts
 
-*Happy clustering!*
 
